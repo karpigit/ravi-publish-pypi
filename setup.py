@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='ravi',
+    name='tamil',
     version='0.1',
     license='MIT',
     author="Karpi",
@@ -10,7 +10,7 @@ setup(
     packages=find_packages('src'),
     package_dir={'': 'src'},
     url='https://github.com/karpigit/ravi-publish-pypi',
-    keywords='ravi',
+    keywords='tamil',
     install_requires=[
       ],
 )
