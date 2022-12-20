@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tamil',
-    version='0.1',
+    version='0.2',
     license='MIT',
     author="Karpi",
     author_email='karpiworld@gmail.com',
